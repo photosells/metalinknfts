@@ -35,7 +35,7 @@ const firebaseConfig = {
     //   remove the alert
     setTimeout(() => {
       document.querySelector(".alert").style.display = "none";
-    }, 3000);
+    }, 12000);
   
     //   reset the form
     document.getElementById("contactForm").reset();
